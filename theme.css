@@ -1,0 +1,248 @@
+body {
+background-color:  #040720;
+}
+
+.sitetitle {
+margin-right: auto;
+}
+
+.navbar {
+display:flex
+width: 100%;
+align-items: flex-end;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.navstuff {
+
+margin:-70px auto;
+margin-right: 50px;
+width: 50%;
+text-align:center;
+color: white;
+font-size:30px;
+}
+
+.basice {
+flex-wrap: wrap;
+width: 100%;
+background: whitesmoke;
+height: 400px;
+display:flex;
+position: relative;
+top: 200px;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+.textb {
+width: 150px;
+}
+
+.Title1 {
+color: #040720;
+font-weight: 800;
+font-size:30px;
+}
+
+.Title2 {
+color: #040720;
+font-weight: 400;
+font-size:20px;
+padding: 20px;
+}
+
+.button1 {
+  border-radius: 12px;
+width:130px;
+  background-color: #237acc;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 3px 1px;
+}
+
+
+.miscstuff {
+position: relative;
+left:50px;
+top:120px;
+}
+
+.favfood {
+flex-wrap: wrap;
+width: 100%;
+height: 500px;
+display:flex;
+position: relative;
+top: 180px;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+.foodtitle1 {
+position: absolute;
+width:100%;
+top:20px;
+color: white;
+font-size:60px;
+}
+
+.imagecol {
+ display: inline-block;
+
+position: absolute;
+display:flex;
+text-align:center;
+padding: 11px;
+font-weight: 800;
+font-size:20px;
+color:white;
+
+}
+
+li {
+  list-style-type: none;
+margin: 30px;  
+}
+
+.imgy {
+ border-style: solid;
+  border-color: cyan;
+border-radius: 25px;
+}
+
+.imgy img {
+  border-radius: 25px;
+}
+
+.foodtitle2 {
+position: absolute;
+width:10%;
+right:150px;
+top:280px;
+color: white;
+font-weight: 800;
+font-size:30px;
+}
+
+.quotea {
+align-items: center;
+justify-content: center;
+text-align: center;
+flex-wrap: wrap;
+background:silver;
+width: 100%;
+height: 150px;
+display:flex;
+position: relative;
+top: 150px;
+
+}
+
+.quoteb {
+align-items: center;
+justify-content: center;
+text-align: center;
+flex-wrap: wrap;
+display:flex;
+top: 120px;
+font-size:25px;
+}
+
+.quotec {
+position: absolute;
+right:110px;
+top:100px;
+font-size:20px;
+}
+
+.emb {
+
+width: 100%;
+height: 300px;
+display:flex;
+position: relative;
+top: 250px;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+.embtext {
+
+background-color:#237acc;
+width: 50%;
+height: 170px;
+color:white;
+border-radius: 15px;
+
+}
+
+.embtext1 {
+border-radius: 15px;
+background-color:#237acc;
+color:white;
+font-size:30px;
+padding: 38px;
+}
+
+.embtext2 {
+color:white;
+font-size:25px;
+padding: 5px;
+}
+
+.button2 {
+position:relative;
+  border-radius: 12px;
+width:130px;
+top:-68px;
+left:350px;
+  background-color: #237acc;
+  color: white;
+  padding: 5px;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.another {
+flex-wrap: wrap;
+background:whitesmoke;
+width: 100%;
+height: 300px;
+display:flex;
+position: relative;
+top: 500px;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+.contactinfo {
+ display: inline-block;
+position: absolute;
+display:flex;
+text-align:center;
+padding: 11px;
+top:10px;
+font-size:50px;
+color:black;
+}
+
+.contactinfop {
+ display: inline-block;
+position: absolute;
+text-align:center;
+padding: 2px;
+top:1px;
+right:45px;
+font-size:35px;
+color:black;
+}
